@@ -16,6 +16,7 @@ set(MODULES
   qualify
   multicast
   redirect
+  dialog
 )
 
 if(FVAD_FOUND)
